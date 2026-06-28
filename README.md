@@ -1,3 +1,6 @@
+<img width="1298" height="220" alt="image" src="https://github.com/user-attachments/assets/5cb4c716-fb1f-4c8f-b63a-eb56d4190927" />
+
+
 🚦 Sistema Inteligente de Controle de Tráfego com IA
 
 📌 Sobre o projeto
