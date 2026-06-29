@@ -55,5 +55,5 @@ Testes em ambiente simulado de tráfego urbano
 📌 Observação
 Este projeto tem caráter acadêmico e conceitual, focado em estudo e aplicação de fundamentos de IA e engenharia de software.
 
-Link do Projeto no Drive: https://drive.google.com/drive/folders/14-QSmLUGQxfNPs5lndUoiLeYkdtKAkv1?usp=drive_link
 Projeto desenvolvido em equipe acadêmica.
+Link do Projeto no Drive: https://drive.google.com/drive/folders/14-QSmLUGQxfNPs5lndUoiLeYkdtKAkv1?usp=drive_link
